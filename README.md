@@ -18,3 +18,6 @@ This project was developed as part of Semester 1 coursework.
 To run the Typing Tutor, you need:
 
 - A C compiler (e.g., GCC)
+- Qasim Ali
+
+
